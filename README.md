@@ -5,6 +5,7 @@ Eu sou engenheira eletricista formada na Universidade de Brasília (Unb), atualm
 Pode soar clichê, mas sou apaixonada por aprender e novos desafios 👩‍💻 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](izabellemgrivas@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelle-rivas-774248332/)
 
 ### Tecnologias que estou habituada
 <div style="display: inline block"><br/>
