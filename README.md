@@ -2,7 +2,7 @@
 
 Eu sou engenheira eletricista formada na Universidade de Brasília (Unb), atualmente estou cursando mestrado no PPGEE também na UnB na área de Redes Elétricas Inteligentes.
 
-Pode soar clichê, mas sou apaixonada por aprender e novos desafios 👩‍💻 
+Pode soar clichê, mas eu sou apaixonada por aprender e por novos desafios 👩‍💻 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](izabellemgrivas@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelle-rivas-774248332/)
